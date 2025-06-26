@@ -6,4 +6,4 @@
 🌱 Currently learning DSA, Python, and AI (Honours Course)  
 🏆 2nd Place – Innotech Expo | Certified in Cloud Computing  
 📫 Reach me at: pranavi@example.com  
-🔗 [LinkedIn] (https://www.linkedin.com/in/pranavi-badana-1202b4310/) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn] (https://www.linkedin.com/in/pranavi-badana-1202b4310/) | [GitHub] (https://github.com/Pranavi301201)
